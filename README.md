@@ -1,2 +1,2 @@
-# BLOG.n1x.website
+# BLOG.N1X.website
 The rep holding all the blog x log contente...
